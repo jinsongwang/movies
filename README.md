@@ -1,7 +1,0 @@
-# movies
-The MovieVis is a web-­based visualization system. When this system is embedded to an entertainment media website, the harmony  between the style of the visual representation and the theme of the site is ranked  as  first  issue.  Some  simple  geometrical  representations  (line,  pi  and  bar  char)  and  some professional  and  scientifically  ones  are  not  put  in  consideration.  To  address  these  issues,  d3.js  are applied  as  premier  method  for  implementation.  In  the  MovieVis,  all movies  are turned into colorful bubbles with different size. The color of each bubble represents MPAA rating. The higher rating results a darker color to dye. The size of the bubble reflects its ticket box. The higher ticket box it gained, the larger size it has. 
-
-Also, the MovieVis is an interactive and dynamic visualization system. By interaction between users and the system, these data can gain value to become useful information when people explore these movies. 
-
-There are two main featured interactions: general exploration and detail exploration. All movie bubbles will  be  initialed  and  assembled  at  beginning.  They  can  be  distributed  in  four  categories  by  control bottoms.  They  will  present a movement  animation from  the beginning  assemble  to pointed  category. Once user requires detail information about each movie, mouse hover on each move bubble is a quick and easy function to satisfy the requirement.
-
